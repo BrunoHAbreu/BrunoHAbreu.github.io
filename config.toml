@@ -1,0 +1,69 @@
+## Basic Configuration
+
+publishDir = ""
+baseURL = "https://brunohabreu.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Bruno Abreu"
+title = "Bruno Abreu"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Bruno Abreu"
+intro = "Estatística"
+description = "Estudante de Estatística com foco em Análise de Crédito Bancário"
+authorimage = "Foto.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "BrunoHAbreu"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "bruno-abreu-7351ab75"
+#twitter = "<username>"
+facebook = "bruno.h.abreu.3"
+#google = "<username>"
+#stackoverflow = "<username>"
+#email = "brunohenriqueabreu08"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Bruno Abreu. " 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+#[[menu.main]]
+ #   name = "blog"
+  #  weight = 100
+   # identifier = "blog"
+    #url = "/blog/"
+[[menu.main]]
+    name = "Sobre "
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "Trabalhos"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"

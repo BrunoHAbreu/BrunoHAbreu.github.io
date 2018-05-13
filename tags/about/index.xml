@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Bruno Abreu</title>
+    <link>https://brunohabreu.github.io/tags/about/</link>
+    <description>Recent content in About on Bruno Abreu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://brunohabreu.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://brunohabreu.github.io/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://brunohabreu.github.io/about/</guid>
+      <description>Atualmente realizo estágio na área de risco de Crédito, onde manipulo e realizo o tratamento de base de dados, fundamentais para selecionar as variáveis que serão testadas no desenvolvimento estatísticos e matemáticos para predição de risco de crédito, Além de outros estudos adicionais essenciais para a gestão de crédito.[1]
+Atualmente, desenvolvo modelos visão produto para Pessoa Jurídica.
+Além de Risco de crédito, tenho foco em previsão de investimentos.</description>
+    </item>
+    
+  </channel>
+</rss>

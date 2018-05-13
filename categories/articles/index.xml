@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Bruno Abreu</title>
+    <link>https://brunohabreu.github.io/categories/articles/</link>
+    <description>Recent content in Articles on Bruno Abreu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://brunohabreu.github.io/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trabalhos</title>
+      <link>https://brunohabreu.github.io/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://brunohabreu.github.io/coderag/</guid>
+      <description>Predição de vitória de times mandantes no campeonato brasileiro 2017 via dados do Cartola
+Devido ao crescente sucesso de jogos tipo fantasy para esportes e a popularidade do jogo Cartola F.C. sobre futebol, surgiu a curiosidade de saber se as informações fornecidas por este tipo de jogo são condizentes com a realidade. Assumindo que a vitória de um time de futebol depende do bom desempenho dos seus atletas e que jogos tipo fantasy são baseados na performance do atleta em cada rodada, esse trabalho foi realizado com o objetivo de verificar a possibilidade de predição de vitória de um time com base nas informações de desempenho de seus atletas, fornecidas pelo Cartola F.</description>
+    </item>
+    
+  </channel>
+</rss>
